@@ -1,0 +1,10 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/Output
+/.vs
+/Python/__pycache__
+/PythonCSharp/.vs/PythonCSharp
+/PythonCSharp/PythonToC#ToPython_SpeedTest/bin/x64/Debug
+/PythonCSharp/PythonToC#ToPython_SpeedTest/obj
